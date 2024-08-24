@@ -1,4 +1,4 @@
-#01_lexer
+#lexer_parser_interpreter
 
 class LexicalError(Exception):
     pass
